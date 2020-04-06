@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestoranHesap</string>
+    <array name="icecekler">
+        <item>Cay</item>
+        <item>Turk Kahvesi</item>
+        <item>Nescafe</item>
+        <item>Kola</item>
+        <item>Sprite</item>
+    </array>
+</resources>
